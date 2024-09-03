@@ -1,0 +1,10 @@
+{
+    "google": {
+        "email": "asd",
+        "password": "asdf"
+    },
+    "facebook": {
+        "email": "adsf",
+        "password": "adf"
+    }
+}

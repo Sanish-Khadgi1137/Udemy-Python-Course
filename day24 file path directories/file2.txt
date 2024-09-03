@@ -1,0 +1,2 @@
+for relation file outside of the current folder
+sss
