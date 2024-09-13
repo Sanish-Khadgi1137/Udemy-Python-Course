@@ -7,3 +7,5 @@ for fruit in fruits:
 
 #this is out of the loop
 print(fruits)
+
+############forvisualizing use https://pythontutor.com/visualize.html#mode=edit
